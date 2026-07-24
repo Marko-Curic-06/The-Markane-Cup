@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Breadlandia",
+        "rating": 89,
+        "flag": "images/flags/breadlandia.png"
+    },
+
+    {
+        "name": "Edan Island",
+        "rating": 82,
+        "flag": "images/flags/edan.png"
+    },
+
+    {
+        "name": "K-Folkship",
+        "rating": 86,
+        "flag": "images/flags/kfolkship.png"
+    },
+
+    {
+        "name": "Pigionia",
+        "rating": 76,
+        "flag": "images/flags/pigionia.png"
+    },
+
+    {
+        "name": "Poopland",
+        "rating": 73,
+        "flag": "images/flags/poopland.png"
+    },
+
+    {
+        "name": "Bubbytopia",
+        rating: 84,
+        "flag": "images/flags/bubbytopia.png"
+    },
+
+    {
+        "name": "Pigland",
+        "rating": 79,
+        "flag": "images/flags/pigland.png"
+    },
+
+    {
+        "name": "Hacker-Ehh Land",
+        "rating": 81,
+        "flag": "images/flags/hacker.png"
+    }
+]
